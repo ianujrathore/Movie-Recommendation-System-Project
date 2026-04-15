@@ -5,7 +5,7 @@ A simple Python-based Movie Recommendation System that suggests movies similar t
 
 ---
 
-## Features
+## Features of this project
 
 - Find similar movies by entering your favorite movie.  
 - Handles typos and partial matches with fuzzy matching.  
